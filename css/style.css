@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.navbar-recipes {
+    background-color: gray;
+}
+
+.hidden {
+    display: none;
+}
+
+.unfiled {
+    border-color: red;
+}
+
+table {
+    margin: 0 auto;
+    width: 50%;
+}
+
+#recipes {
+    margin: 10px;
+    width: 50%;
+}
+
+#ingredients {
+    margin: 10px;
+    width: 50%;
+    float: right;
+}
+
+#newBtn {
+    margin-top: 5px;
+    margin-left: 15px;
+    border-color: black;
+}
+
+#showRecipes {
+    margin-top: 5px;
+    border-color: black;
+}
+
+#showIngredients {
+    margin-top: 5px;
+    border-color: black;
+}
+
+#saverecipe {
+    border-color: black;
+}
